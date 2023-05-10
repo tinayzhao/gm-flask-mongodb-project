@@ -1,6 +1,6 @@
 # gm-flask-mongodb-project
 
-This is a website for users to post bear pictures. Meant to demonstrate understanding of Flask and MongoDB.
+This is a website for users to post bear pictures. Meant to demonstrate understanding of Flask and MongoDB. Website is deployed at https://gm-flask-mongodb-project.herokuapp.com/.
 
 ## Development Environment
 
@@ -16,8 +16,8 @@ From `gm-flask-mongodb-project` directory, run `python3 -m virtualenv venv` - cr
 
 To run and test Flask application, run `flask run` in `gm-flask-mongodb-project` directory and paste link into browser
 
-## Photos
+## Screenshots
 ![Index page if not logged in](static/assets/index-page.png)
 ![Home page](static/assets/home-page.png) 
-![All pictures page](static/assets/all-picture.png) 
+![All pictures page](static/assets/all-pictures.png) 
 
