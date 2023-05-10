@@ -1,0 +1,107 @@
+
+#home {
+    font-family: 'Roboto', sans-serif;
+	color: #FFFFFF;
+	background-color: rgb(10, 24, 40);
+}
+
+#black-bear {
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    background-color: #0A1828;
+}
+
+#brown-bear {
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    background-color: #CC973B;
+}
+
+h1,h2,p {
+    text-align: center;
+}
+
+#bear-icon {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+
+#bear-pic {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.row-padding {
+	padding-bottom: 1vh;
+}
+
+footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    font-size: 1em;
+}
+
+.greeting-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.navbar-nav { 
+    flex-direction: row;
+}
+
+li > a:link {
+    text-decoration: underline;
+    font-size: 1.0rem;
+}
+
+#intro-text {
+    font-size: 14pt;
+}
+
+.signin-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.submit-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.upload-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.home-bear-images-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%; 
+}
+
+.signout-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
