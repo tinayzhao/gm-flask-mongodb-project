@@ -49,6 +49,7 @@ def view_all_pictures():
 
 @app.route('/signout', methods=['GET'])
 def sign_out():
+    create_collections(db)
     attempt_sign_out(db)
     return redirect("/")
 
